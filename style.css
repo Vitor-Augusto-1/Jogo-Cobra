@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #43a047;
+  font-family: 'Zapf-Chancery', Arial, Helvetica, sans-serif;
+  background: rgb(25, 12, 59);
+}
+
+h1 {
+    margin-bottom: 0px;
+  }
